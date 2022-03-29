@@ -13,11 +13,7 @@ title: Fastro
 
 description: Fast and simple web application framework for deno
 
-image:
-  path: /assets/img/84224795.png
-  height: 100
-  width: 100
-  alt: Twitter Logo
+image: /assets/img/84224795.png
 
 google_analytics: UA-165990288-1
 
