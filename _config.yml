@@ -7,6 +7,8 @@ github:
     path: "/"
   repository_url: "https://github.com/fastrodev/fastro"
 
+theme: jekyll-theme-primer
+
 title: Fastro
 
 description: Fast and simple web application framework for deno
