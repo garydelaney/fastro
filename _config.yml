@@ -11,7 +11,7 @@ theme: jekyll-theme-primer
 
 title: Fastro
 
-description: Fast and simple web application framework with native Deno Request and Response.
+description: Fast and simple web application framework with native Deno Request and Response. You can use the built-in functions and objects that are already available according to your needs – such as all the Request properties, headers, cookies, and more.
 
 twitter:
   username: fastrodev
